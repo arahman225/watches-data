@@ -1,0 +1,8 @@
+
+[
+    { "name": "Submariner", "brand": "Rolex", "price": 8400, "img": "https://flagcdn.com/w320/gs.png", "id": 1 },
+    { "name": "Seamaster", "brand": "Omega", "price": 5000, "img": "https://flagcdn.com/w320/gs.png", "id": 2 },
+    { "name": "G-Shock", "brand": "Casio", "price": 150, "img": "https://flagcdn.com/w320/gs.png", "id": 3 },
+    { "name": "Nautilus", "brand": "Patek Philippe", "price": 30000, "img": "https://flagcdn.com/w320/gs.png", "id": 4 },
+    { "name": "Prospex", "brand": "Seiko", "price": 800, "img": "https://flagcdn.com/w320/gs.png", "id": 5 }
+  ]
